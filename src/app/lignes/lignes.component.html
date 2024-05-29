@@ -1,0 +1,31 @@
+<h1>Nos lignes d'Hyperloop</h1>
+<div class="image">
+<table>
+    <thead>
+      <tr>
+        <th i18n>Nom de la ligne</th>
+        <th i18n>Description</th>
+        <th i18n>Durée du trajet</th>
+        <th i18n>Horaires</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr  *ngFor="let line of monTableau" class="{{line.class}}">
+        <td >{{ line.name }}</td>
+        <td >{{ line.description }}</td>
+        <td >{{ line.duration }}</td>
+        <td>
+          <ul>
+            <li *ngFor="let schedule of line.schedules" i18n>
+              Départ : {{ schedule.departure }} - Arrivée : {{ schedule.arrival }}
+            </li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+ 
+    <img src="/assets/img/carte.png" alt="image du plan du réseau hyperloop en Nouvelle-Calédonie.">
+
+  </div>
+  

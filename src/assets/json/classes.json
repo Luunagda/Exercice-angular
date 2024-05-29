@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Classe Standard",
+    "description": "La classe Standard d'Hyperloop NC vous offre une option économique avec des sièges confortables. Profitez d'un voyage rapide et efficace pour relier Nouméa à Bourail, Koné ou Poindimié. Les capsules modernes vous offrent une vue panoramique sur les paysages pittoresques de Nouvelle-Calédonie. Que vous voyagiez pour les affaires ou le plaisir, la classe Standard est la solution idéale pour un voyage abordable et agréable.",
+    "image": "standard.png",
+    "lien": "/standard",
+    "prices": {
+      "LigneBleue": { "name":"Bleue", "duration": "50 minutes", "price": 4250, "class": "LigneBleue" },
+      "LigneVerte": { "name":"Verte", "duration": "55 minutes", "price": 5100, "class": "LigneVerte" },
+      "LigneRouge": { "name":"Rouge", "duration": "45 minutes", "price": 5950, "class": "LigneRouge" }
+    }
+  },
+  {
+    "name": "Classe Premium",
+    "description": "La classe Premium d'Hyperloop NC vous propose un voyage avec des sièges de qualité supérieure et un service de restauration. Profitez d'un voyage élégant et rapide pour relier Nouméa à Bourail, Koné ou Poindimié. Les sièges rembourrés de qualité supérieure vous assurent un confort optimal tout au long du trajet. Choisissez la classe Premium pour un voyage raffiné et haut de gamme.",
+    "image": "prenium.png",
+    "lien": "/prenium",
+    "prices": {
+      "LigneBleue": { "name":"Bleue", "duration": "50 minutes", "price": 6800, "class": "LigneBleue" },
+      "LigneVerte": { "name":"Verte", "duration": "55 minutes", "price": 7650, "class": "LigneVerte" },
+      "LigneRouge": { "name":"Rouge", "duration": "45 minutes", "price": 8500, "class": "LigneRouge" }
+    }
+  },
+  {
+    "name": "Classe Business",
+    "description": "La classe Business d'Hyperloop NC vous offre une expérience de voyage luxueuse avec des sièges en cuir et un service de conciergerie. Profitez d'un voyage sophistiqué et rapide pour relier Nouméa à Bourail, Koné ou Poindimié. Les sièges en cuir vous offrent un espace privé pour travailler ou vous détendre en toute tranquillité. Optez pour la classe Business pour un voyage d'exception et un service personnalisé.",
+    "image": "business.png",
+    "lien": "/business",
+    "prices": {
+      "LigneBleue": { "name":"Bleue", "duration": "50 minutes", "price": 10200, "class": "LigneBleue" },
+      "LigneVerte": { "name":"Verte", "duration": "55 minutes", "price": 11900, "class": "LigneVerte" },
+      "LigneRouge": { "name":"Rouge", "duration": "45 minutes", "price": 13600, "class": "LigneRouge" }
+    }
+  }
+
+]
+     

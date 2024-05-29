@@ -1,0 +1,75 @@
+/* Style général du tableau */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+    border: 1px solid #ccc;
+  }
+  
+  /* Style de l'en-tête */
+  thead {
+    background-color: #f2f2f2;
+  }
+  
+  thead th {
+    padding: 10px;
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  /* Style des cellules du tableau */
+  tbody td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  /* Style de la première colonne (Nom de la ligne) */
+  tbody td:first-child {
+    font-weight: bold;
+  }
+  
+  /* Style des listes à puces des horaires */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 5px;
+  }
+  
+  /* Style des cellules du tableau au survol de la souris */
+  tbody tr:hover {
+    background-color: #f2f2f2;
+  }
+  
+  /* Style des cellules du tableau au survol de la souris pour la Ligne Bleue */
+  tbody tr.LigneBleue:hover {
+    background-color: #8dc5ff; /* Bleu clair */
+  }
+  
+  /* Style des cellules du tableau au survol de la souris pour la Ligne Verte */
+  tbody tr.LigneVerte:hover {
+    background-color: #b8e986; /* Vert clair */
+  }
+  
+  /* Style des cellules du tableau au survol de la souris pour la Ligne Rouge */
+  tbody tr.LigneRouge:hover {
+    background-color: #ff8e8e; /* Rouge clair */
+  }
+  h1{
+    margin: 5%;
+    text-align: center;
+  }
+  .image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+  }
+  img{
+    width: 70%;
+    height: 70%;
+  
+  }

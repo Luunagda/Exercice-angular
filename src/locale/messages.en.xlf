@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="fr-FR" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="ngb.alert.close" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.HH" datatype="html">
+        <source>HH</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.toast.close-aria" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.first" datatype="html">
+        <source>««</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.select-month" datatype="html">
+        <source>Select month</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.previous-month" datatype="html">
+        <source>Previous month</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.progressbar.value" datatype="html">
+        <source><x id="INTERPOLATION"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.slide-number" datatype="html">
+        <source> Slide <x id="INTERPOLATION"/> of <x id="INTERPOLATION_1"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Currently selected slide number read by screen reader</note>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.hours" datatype="html">
+        <source>Hours</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.previous" datatype="html">
+        <source>«</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.previous" datatype="html">
+        <source>Previous</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.MM" datatype="html">
+        <source>MM</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.next" datatype="html">
+        <source>»</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.select-year" datatype="html">
+        <source>Select year</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.next-month" datatype="html">
+        <source>Next month</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.next" datatype="html">
+        <source>Next</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.minutes" datatype="html">
+        <source>Minutes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.last" datatype="html">
+        <source>»»</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-hours" datatype="html">
+        <source>Increment hours</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.first-aria" datatype="html">
+        <source>First</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.previous-aria" datatype="html">
+        <source>Previous</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-hours" datatype="html">
+        <source>Decrement hours</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.next-aria" datatype="html">
+        <source>Next</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-minutes" datatype="html">
+        <source>Increment minutes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.last-aria" datatype="html">
+        <source>Last</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-minutes" datatype="html">
+        <source>Decrement minutes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.SS" datatype="html">
+        <source>SS</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.seconds" datatype="html">
+        <source>Seconds</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-seconds" datatype="html">
+        <source>Increment seconds</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-seconds" datatype="html">
+        <source>Decrement seconds</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.PM" datatype="html">
+        <source><x id="INTERPOLATION"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.AM" datatype="html">
+        <source><x id="INTERPOLATION"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/src/ngb-config.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+
+
+      
+      <trans-unit id="5574626961532311038" datatype="html">
+        <source>Bienvenue dans l&apos;ère du transport futuriste !</source>
+        <target>Welcome to the era of futuristic transportation !</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3798177351287392441" datatype="html">
+        <source>Hyperloop est un système de transport révolutionnaire qui promet de transformer la manière dont nous nous déplaçons. Imaginez voyager à des vitesses incroyables, sans friction, dans des capsules pressurisées à travers un réseau de tubes à basse pression.</source>
+        <target>Hyperloop is a revolutionary transportation system that promises to transform the way we travel. Imagine traveling at incredible speeds, with minimal friction, inside pressurized capsules through a network of low-pressure tubes.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8959771149137717595" datatype="html">
+        <source>L&apos;Hyperloop offre des avantages exceptionnels tels que la vitesse supersonique, une empreinte écologique réduite et une expérience de voyage confortable. Vous pouvez désormais découvrir cette technologie de pointe en Nouvelle-Calédonie avec notre réseau Hypercal.</source>
+        <target>The Hyperloop offers exceptional benefits such as supersonic speed, reduced ecological footprint, and a comfortable travel experience. Now, you can experience this cutting-edge technology in New Caledonia with our Hypercal network.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3116793945166734904" datatype="html">
+        <source>En savoir plus</source>
+        <target>Learn more</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8064832683996734408" datatype="html">
+        <source>Qu&apos;est-ce que l&apos;Hyperloop ?</source>
+        <target>What is the Hyperloop ?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2003213071611438718" datatype="html">
+        <source>L&apos;Hyperloop est un système de transport révolutionnaire qui utilise la technologie de lévitation magnétique et des propulseurs électriques pour déplacer des capsules pressurisées à grande vitesse dans des tubes à basse pression, pratiquement sans friction. Cette innovation permet d&apos;atteindre des vitesses proches de la vitesse du son tout en consommant beaucoup moins d&apos;énergie que les avions ou les trains conventionnels. Conçu pour être rapide, sûr et respectueux de l&apos;environnement, l&apos;Hyperloop offre une alternative moderne aux modes de transport traditionnels, transformant ainsi la manière dont nous voyageons.</source>
+        <target>The Hyperloop is a revolutionary transportation system that utilizes magnetic levitation and electric propulsion technology to move pressurized capsules at high speeds through low-pressure tubes, virtually frictionless. This innovation allows for speeds close to the speed of sound while consuming significantly less energy than conventional airplanes or trains. Designed to be fast, safe, and environmentally friendly, the Hyperloop offers a modern alternative to traditional modes of transportation, transforming the way we travel.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="330044735120103654" datatype="html">
+        <source>Pourquoi choisir Hypercal ?</source>
+        <target>Why choose Hypercal ?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4916268100347825616" datatype="html">
+        <source>Hypercal propose un réseau de lignes qui connecte les principales villes de la Nouvelle-Calédonie, offrant ainsi un moyen de transport rapide, sûr et efficace pour les voyageurs. Nos classes de voyage, Standard, Premium et Business, garantissent une expérience adaptée à vos besoins.</source>
+        <target>Hypercal offers a network of lines that connect the major cities of New Caledonia, providing a fast, safe, and efficient mode of transportation for travelers. Our travel classes, Standard, Premium, and Business, ensure an experience tailored to your needs.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3993221647554824776" datatype="html">
+        <source>Nos classes</source>
+        <target>Our classes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4886426827096229135" datatype="html">
+        <source>Voir +</source>
+        <target>See more</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5585353966408671083" datatype="html">
+        <source>Les avis clients</source>
+        <target>Customer reviews</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3695275582222219236" datatype="html">
+        <source> Partagez votre avis avec les autres utilisateurs, votre expérience nous intéresse. </source>
+        <target>Share your review with other users, your experience matters to us.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">50,52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="251938553180135853" datatype="html">
+        <source>Voyageur fréquent</source>
+        <target>Frequent traveler</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4805331977741144566" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot; pe-2&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>Hypercal a complètement changé la façon dont je voyage en Nouvelle-Calédonie. Les trajets sont incroyablement rapides et confortables, et l&apos;absence de friction rend le voyage très agréable. J&apos;apprécie également l&apos;engagement de Hypercal envers l&apos;écologie et la réduction de l&apos;empreinte carbone. C&apos;est définitivement le meilleur moyen de se déplacer dans le pays ! </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot; pe-2&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>Hypercal has completely transformed the way I travel in New Caledonia. The journeys are incredibly fast and comfortable, and the lack of friction makes the travel very enjoyable. I also appreciate Hypercal's commitment to ecology and reducing the carbon footprint. It is definitely the best way to get around the country !</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">69,71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8676308044920766960" datatype="html">
+        <source>Voyageur occasionnel</source>
+        <target>Occasional traveler</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4835189318180538688" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;pe-2&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>J&apos;ai récemment eu l&apos;occasion de tester Hypercal pour un voyage de Nouméa à Bourail, et j&apos;ai été épaté par la vitesse et l&apos;efficacité du système. Les capsules sont modernes et confortables, offrant une expérience de voyage inégalée. Je recommande vivement Hypercal à tous ceux qui cherchent à voyager rapidement et écologiquement en Nouvelle-Calédonie. </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;pe-2&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>I recently had the opportunity to test Hypercal for a trip from Nouméa to Bourail, and I was impressed by the speed and efficiency of the system. The capsules are modern and comfortable, providing an unmatched travel experience. I highly recommend Hypercal to anyone looking to travel quickly and environmentally-friendly in New Caledonia.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">86,88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8172753123477260876" datatype="html">
+        <source> Voyageuse internationale</source>
+        <target>International traveler</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5519452940499913313" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot; pe-2&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>En tant que voyageuse internationale, j&apos;ai été agréablement surprise par l&apos;innovation d&apos;Hypercal en Nouvelle-Calédonie. Les vitesses atteintes sont impressionnantes, et le trajet entre les villes est écourté de manière significative. De plus, le système est très sûr et offre un excellent service à bord. Hypercal est définitivement un incontournable pour tous les voyageurs exigeants ! </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot; pe-2&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>As an international traveler, I was pleasantly surprised by the innovation of Hypercal in New Caledonia. The speeds achieved are impressive, and the journey between cities is significantly shortened. Moreover, the system is very safe and provides excellent onboard service. Hypercal is definitely a must for all discerning travelers !</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/accueil/accueil.component.html</context>
+          <context context-type="linenumber">103,104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3476583629594890489" datatype="html">
+        <source>Accueil</source>
+        <target>Main</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/barre-de-nav/barre-de-nav.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4476973214848392027" datatype="html">
+        <source>Lignes</source>
+        <target>Lines</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/barre-de-nav/barre-de-nav.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3786791760096280412" datatype="html">
+        <source>Ligne</source>
+        <target>Line</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business/business.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/prenium/prenium.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/standard/standard.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="439080885212800" datatype="html">
+        <source>Durée du trajet</source>
+        <target>Travel duration</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business/business.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/lignes/lignes.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/prenium/prenium.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/standard/standard.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="112341503084835" datatype="html">
+        <source>Prix</source>
+        <target>Prices</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/business/business.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/prenium/prenium.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/standard/standard.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7131503233535545455" datatype="html">
+        <source>À propos</source>
+        <target>About us</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4732235933113003257" datatype="html">
+        <source>Hyperloop NC révolutionne le transport en Nouvelle-Calédonie avec des voyages rapides, sûrs et écologiques. Grâce à notre système de capsules pressurisées, propulsées par la technologie de lévitation magnétique et des propulseurs électriques, nous transformons la mobilité avec une alternative moderne et durable aux transports traditionnels. Notre engagement envers l&apos;innovation et la réduction de l&apos;empreinte carbone nous motive à contribuer activement à l&apos;évolution du paysage du transport en Nouvelle-Calédonie.</source>
+        <target>Hyperloop NC is revolutionizing transportation in New Caledonia with fast, safe, and eco-friendly travel. Using our system of pressurized capsules propelled by magnetic levitation and electric propulsion technology, we are transforming mobility with a modern and sustainable alternative to traditional transportation. Our commitment to innovation and reducing the carbon footprint motivates us to actively contribute to the evolution of the transportation landscape in New Caledonia.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2169966713237721007" datatype="html">
+        <source>Tous droits réservés © 2023 Hyperloop NC</source>
+        <target>All rights reserved © 2023 Hyperloop NC</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3347392384326074278" datatype="html">
+        <source>Liens utiles</source>
+        <target>Useful links</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2583261825104481348" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;nav-link underline&quot; href=&quot;/&quot; &gt;"/>Accueil<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;nav-link underline&quot; href=&quot;/&quot; &gt;"/>Main<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4619848845269194106" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;nav-link underline&quot; href=&quot;/lignes&quot;&gt;"/>Nos lignes<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;nav-link underline&quot; href=&quot;/lignes&quot;&gt;"/>Our lines<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7922989125096435449" datatype="html">
+        <source>Contact</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6935867822750818741" datatype="html">
+        <source> 12 Rue du Futur, à Nouméa</source>
+        <target>2 Future Street, in Noumea</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6711380423397650484" datatype="html">
+        <source>Nom de la ligne</source>
+        <target>Line name</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/lignes/lignes.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4902817035128594900" datatype="html">
+        <source>Description</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/lignes/lignes.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4746424028063319439" datatype="html">
+        <source>Horaires</source>
+        <target>Schedules</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/lignes/lignes.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9020490869915978604" datatype="html">
+        <source> Départ : <x id="INTERPOLATION" equiv-text="{{ schedule.departure }}"/> - Arrivée : <x id="INTERPOLATION_1" equiv-text="{{ schedule.arrival }}"/> </source>
+        <target>Departure : <x id="INTERPOLATION" equiv-text="{{ schedule.departure }}"/> - Arrival : <x id="INTERPOLATION_1" equiv-text="{{ schedule.arrival }}"/> </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/lignes/lignes.component.html</context>
+          <context context-type="linenumber">19,21</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+

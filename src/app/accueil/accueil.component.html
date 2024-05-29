@@ -1,0 +1,113 @@
+
+
+  <div >
+
+    
+    <main class="jumbotron">
+      
+      <div class="container intro">
+        <h1 class="display-4" i18n>Bienvenue dans l'ère du transport futuriste !</h1>
+        <p class="lead" i18n>Hyperloop est un système de transport révolutionnaire qui promet de transformer la manière dont nous nous déplaçons. Imaginez voyager à des vitesses incroyables, sans friction, dans des capsules pressurisées à travers un réseau de tubes à basse pression.</p>
+        <hr class="my-4">
+        <p i18n>L'Hyperloop offre des avantages exceptionnels tels que la vitesse supersonique, une empreinte écologique réduite et une expérience de voyage confortable. Vous pouvez désormais découvrir cette technologie de pointe en Nouvelle-Calédonie avec notre réseau Hypercal.</p>
+        <a class="btn btn-primary btn-lg" href="#learn-more" role="button" i18n>En savoir plus</a>
+      </div>
+
+    </main>   
+      <section class="container" id="learn-more">
+        <h2 i18n>Qu'est-ce que l'Hyperloop ?</h2>
+        <p i18n>L'Hyperloop est un système de transport révolutionnaire qui utilise la technologie de lévitation magnétique et des propulseurs électriques pour déplacer des capsules pressurisées à grande vitesse dans des tubes à basse pression, pratiquement sans friction. Cette innovation permet d'atteindre des vitesses proches de la vitesse du son tout en consommant beaucoup moins d'énergie que les avions ou les trains conventionnels. Conçu pour être rapide, sûr et respectueux de l'environnement, l'Hyperloop offre une alternative moderne aux modes de transport traditionnels, transformant ainsi la manière dont nous voyageons.</p>
+
+        <h2 i18n>Pourquoi choisir Hypercal ?</h2>
+        <p i18n>Hypercal propose un réseau de lignes qui connecte les principales villes de la Nouvelle-Calédonie, offrant ainsi un moyen de transport rapide, sûr et efficace pour les voyageurs. Nos classes de voyage, Standard, Premium et Business, garantissent une expérience adaptée à vos besoins.</p>
+      </section>
+   
+
+  
+</div>
+<main class="d-flex grid gap-5 flex-wrap main">
+    <h2 class="fw-bold" i18n>Nos classes</h2>
+    <div class="classe">
+        <div class="card " style="width: 25rem;" *ngFor="let elt of monTableau">
+            <img src="/assets/img/{{elt.image}}" class="card-img-top img"  alt="{{elt.alt}}">
+            <div class="card-body">
+                <h5 class="card-title" ><b>{{elt.name}}</b></h5>
+                <p class="card-text" >{{elt.description | slice:0:95}}...</p>
+                <div class="btn-card">
+                <a href="{{elt.lien}}" class="btn btn-lg btn-dark ms-3 voirplus" data-id="{{elt.id}}" i18n>Voir +</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+    
+
+  <section style="color: #000; ">
+    <div class="container py-5">
+      <div class="row d-flex justify-content-center">
+        <div class="col-md-10 col-xl-8 text-center">
+          <h3 class="fw-bold mb-4" i18n>Les avis clients</h3>
+          <p class="mb-4 pb-2 mb-md-5 pb-md-0" i18n>
+          Partagez votre avis avec les autres utilisateurs, votre expérience nous intéresse. 
+          </p>
+        </div>
+      </div>
+  
+      <div class="row text-center">
+        <div class="col-md-4 mb-4 mb-md-0">
+          <div class="card">
+            <div class="card-body py-4 mt-2">
+              <div class="d-flex justify-content-center mb-4">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(10).webp"
+                  class="rounded-circle shadow-1-strong" width="100" height="100" />
+              </div>
+              <h5 class="font-weight-bold">Teresa May</h5>
+              <h6 class="font-weight-bold my-3" i18n>Voyageur fréquent</h6>
+              <p>★★★★★</p>
+              <p class="mb-2" i18n>
+  
+                <i class=" pe-2"></i>Hypercal a complètement changé la façon dont je voyage en Nouvelle-Calédonie. Les trajets sont incroyablement rapides et confortables, et l'absence de friction rend le voyage très agréable. J'apprécie également l'engagement de Hypercal envers l'écologie et la réduction de l'empreinte carbone. C'est définitivement le meilleur moyen de se déplacer dans le pays !
+  
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 mb-4 mb-md-0">
+          <div class="card">
+            <div class="card-body py-4 mt-2">
+              <div class="d-flex justify-content-center mb-4">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(15).webp"
+                  class="rounded-circle shadow-1-strong" width="100" height="100" />
+              </div>
+              <h5 class="font-weight-bold">Maggie McLoan</h5>
+              <h6 class="font-weight-bold my-3"i18n>Voyageur occasionnel</h6>
+              <p>★★★★☆</p>
+              <p class="mb-2" i18n>
+                <i class="pe-2"></i>J'ai récemment eu l'occasion de tester Hypercal pour un voyage de Nouméa à Bourail, et j'ai été épaté par la vitesse et l'efficacité du système. Les capsules sont modernes et confortables, offrant une expérience de voyage inégalée. Je recommande vivement Hypercal à tous ceux qui cherchent à voyager rapidement et écologiquement en Nouvelle-Calédonie.
+  
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 mb-0">
+          <div class="card">
+            <div class="card-body py-4 mt-2">
+              <div class="d-flex justify-content-center mb-4">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(17).webp"
+                  class="rounded-circle shadow-1-strong" width="100" height="100" />
+              </div>
+              <h5 class="font-weight-bold">Alexa Horwitz</h5>
+              <h6 class="font-weight-bold my-3" i18n> Voyageuse internationale</h6>
+              <p>★★★★★</p>
+              <p class="mb-2" i18n>
+                <i class=" pe-2"></i>En tant que voyageuse internationale, j'ai été agréablement surprise par l'innovation d'Hypercal en Nouvelle-Calédonie. Les vitesses atteintes sont impressionnantes, et le trajet entre les villes est écourté de manière significative. De plus, le système est très sûr et offre un excellent service à bord. Hypercal est définitivement un incontournable pour tous les voyageurs exigeants !
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  

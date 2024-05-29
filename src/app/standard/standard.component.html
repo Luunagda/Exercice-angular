@@ -1,0 +1,48 @@
+<main *ngFor="let elt of monTableau; let i = index">
+    <div *ngIf="i === 0">
+        <div class="titre">
+            <h1 class='title' ><b>{{elt.name}}</b></h1>
+        </div>
+        <a href="/" class="btn-retour"><img src="/assets/img/icone-fleche-droite-noir.png" alt="fleche retour arrière"></a>
+        
+        
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="/assets/img/{{elt.image}}" alt="" class="chambre-image">
+                </div>
+                <div class="col-lg-6 form-option">
+                    <p >{{elt.description}}</p>
+                </div>
+            </div>
+        </div>
+        <table>
+            <thead>
+              <tr>
+                <th i18n>Ligne</th>
+                <th i18n>Durée du trajet</th>
+                <th i18n>Prix</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="{{elt.prices.LigneBleue.class}}">
+                <td >{{ elt.prices.LigneBleue.name }}</td>
+                <td >{{ elt.prices.LigneBleue.duration }}</td>
+                <td >{{ elt.prices.LigneBleue.price }} XPF</td>
+              </tr>
+              <tr class="{{elt.prices.LigneVerte.class}}">
+                <td >{{ elt.prices.LigneVerte.name }}</td>
+                <td >{{ elt.prices.LigneVerte.duration }}</td>
+                <td >{{ elt.prices.LigneVerte.price }} XPF</td>
+              </tr>
+              <tr class="{{elt.prices.LigneRouge.class}}">
+                <td >{{ elt.prices.LigneRouge.name }}</td>
+                <td >{{ elt.prices.LigneRouge.duration }}</td>
+                <td >{{ elt.prices.LigneRouge.price }} XPF</td>
+              </tr>
+              
+            </tbody>
+          </table>
+          
+    </div>
+</main>

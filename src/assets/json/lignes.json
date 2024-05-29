@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Ligne Bleue",
+        "description": "Nouméa - Bourail",
+        "duration": "50 minutes",
+        "class": "LigneBleue",
+        "schedules": [
+          { "departure": "08:00", "arrival": "08:50" },
+          { "departure": "10:00", "arrival": "10:50" },
+          { "departure": "12:00", "arrival": "12:50" },
+          { "departure": "14:00", "arrival": "14:50" },
+          { "departure": "16:00", "arrival": "16:50" }
+        ]
+      },
+      {
+        "name": "Ligne Verte",
+        "description": "Nouméa - Koné",
+        "duration": "55 minutes",
+        "class": "LigneVerte",
+        "schedules": [
+          { "departure": "08:30", "arrival": "09:25" },
+          { "departure": "10:30", "arrival": "11:25" },
+          { "departure": "12:30", "arrival": "13:25" },
+          { "departure": "14:30", "arrival": "15:25" },
+          { "departure": "16:30", "arrival": "17:25" }
+        ]
+      },
+      {
+        "name": "Ligne Rouge",
+        "description": "Nouméa - Poindimié",
+        "duration": "45 minutes",
+        "class": "LigneRouge",
+        "schedules": [
+          { "departure": "09:00", "arrival": "09:45" },
+          { "departure": "11:00", "arrival": "11:45" },
+          { "departure": "13:00", "arrival": "13:45" },
+          { "departure": "15:00", "arrival": "15:45" },
+          { "departure": "17:00", "arrival": "17:45" }
+        ]
+      }
+]
+  

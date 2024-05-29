@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Standard Class",
+      "description": "The Standard Class of Hyperloop NC offers you an economical option with comfortable seats. Enjoy a fast and efficient journey connecting Noumea to Bourail, Kone, or Poindimie. The modern capsules provide a panoramic view of the picturesque landscapes of New Caledonia. Whether you are traveling for business or pleasure, the Standard Class is the ideal solution for an affordable and pleasant journey.",
+      "image": "standard.png",
+      "lien": "/standard",
+      "prices": {
+        "LigneBleue": { "name": "Blue", "duration": "50 minutes", "price": 4250, "class": "LigneBleue" },
+        "LigneVerte": { "name": "Green", "duration": "55 minutes", "price": 5100, "class": "LigneVerte" },
+        "LigneRouge": { "name": "Red", "duration": "45 minutes", "price": 5950, "class": "LigneRouge" }
+      }
+    },
+    {
+      "name": "Premium Class",
+      "description": "The Premium Class of Hyperloop NC offers you a journey with superior quality seats and catering service. Enjoy an elegant and fast journey connecting Noumea to Bourail, Kone, or Poindimie. The premium padded seats ensure optimal comfort throughout the trip. Choose the Premium Class for a refined and high-end journey.",
+      "image": "prenium.png",
+      "lien": "/prenium",
+      "prices": {
+        "LigneBleue": { "name": "Blue", "duration": "50 minutes", "price": 6800, "class": "LigneBleue" },
+        "LigneVerte": { "name": "Green", "duration": "55 minutes", "price": 7650, "class": "LigneVerte" },
+        "LigneRouge": { "name": "Red", "duration": "45 minutes", "price": 8500, "class": "LigneRouge" }
+      }
+    },
+    {
+      "name": "Business Class",
+      "description": "The Business Class of Hyperloop NC offers you a luxurious travel experience with leather seats and concierge service. Enjoy a sophisticated and fast journey connecting Noumea to Bourail, Kone, or Poindimie. The leather seats provide you with a private space to work or relax in tranquility. Opt for the Business Class for an exceptional journey and personalized service.",
+      "image": "business.png",
+      "lien": "/business",
+      "prices": {
+        "LigneBleue": { "name": "Blue", "duration": "50 minutes", "price": 10200, "class": "LigneBleue" },
+        "LigneVerte": { "name": "Green", "duration": "55 minutes", "price": 11900, "class": "LigneVerte" },
+        "LigneRouge": { "name": "Red", "duration": "45 minutes", "price": 13600, "class": "LigneRouge" }
+      }
+    }
+  ]
+  

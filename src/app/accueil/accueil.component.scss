@@ -1,0 +1,33 @@
+   /* Custom styles can be added here */
+   body {
+    font-family: Arial, sans-serif;
+    padding-top: 40px;
+  }
+
+  .container {
+    max-width: 80%;
+  }
+.main{
+    flex-direction: column;
+    justify-content: center;
+}
+.main h2{
+    text-align: center;
+}
+.classe{
+    display: flex;
+    justify-content: space-around;
+}
+.jumbotron{
+  background-image: url("/assets/img/hyperloop.png");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+
+}
+.intro{
+  padding-top: 5%;
+  padding-bottom: 25%;
+  margin-bottom: 2%;
+}

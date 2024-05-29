@@ -1,4 +1,4 @@
-# DevoirNoteAngular7
+# Exercice Angular
 
 Il s'agit d'un exercice réaliser en BUT MMI 2. Il a été le premier petit projet à réaliser sur Angular. Il nous a permis d'apprendre à l'utiliser.
 

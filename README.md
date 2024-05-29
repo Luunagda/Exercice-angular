@@ -1,5 +1,9 @@
 # DevoirNoteAngular7
 
+Il s'agit d'un exercice réaliser en BUT MMI 2. Il a été le premier petit projet à réaliser sur Angular. Il nous a permis d'apprendre à l'utiliser.
+
+***************************
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
 ## Development server
